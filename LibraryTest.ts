@@ -17,10 +17,12 @@ Crear un objeto de la clase MobileLibrary y asignarle el array que habéis
 creado previamente.
 */
 
-let libreria = new MobileLibrary("mi libreris" , "pues aqui" , arrayLibros)
+let libreria = new MobileLibrary("mi moviles" , "pues aqui" , arrayLibros)
 
 /* 7
 Comprobar que todos los métodos del objeto funcionan perfectamente.
 */
 
-console.log(libreria.totalPriceCalculation());
+//console.log(libreria.totalPriceCalculation());
+
+

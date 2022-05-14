@@ -34,7 +34,5 @@ tal y como se especifica en el punto 5.*/
 for(let i=0 ; i<moviles.length ; i++){
      moviles[i].impCaract();
 }
-// Nokia.impCaract();
-// iPhone.impCaract();
-// Sammsung.impCaract();
+
 

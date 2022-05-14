@@ -85,7 +85,7 @@ export class Mobile {
      //METODOS 
 
      impCaract(){
-         console.log("The characteristics of the mobile name are: " + "\n" + "name: " + this.name +"\n" + 
+         console.log("The characteristics of the mobile" + this.name + "name are: " + "\n" + "name: " + this.name +"\n" + 
         "model: " + this.model + "/n" + "Trademark: " + this.trademark + "\n" + "SD Size (GB) : " + this.sdSize + "\n" +
         "color: " + this.color + "\n" + "is5G? " + this.is5G + "\n" + "Number of Cameras: " + this.cameraNumber)
      }
